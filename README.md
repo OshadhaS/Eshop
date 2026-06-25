@@ -83,3 +83,6 @@ Make sure you have a local web server environment installed, such as **XAMPP**, 
    $username = "root"; 
    $password = ""; // Default is empty for XAMPP
    $database = "eshop"; // Your database name
+
+
+   <!-- Testing for Pull Shark badge -->
